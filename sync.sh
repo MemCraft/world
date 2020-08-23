@@ -2,10 +2,6 @@
 
 SOURCE_PATH="/root/git/mcsmanager/server/server_core/master"
 
-TIME=`date "+%Y-%m-%d %H:%M:%S"`
-COMMIT_MESSAGE="auto backup "$TIME" @memset0."
-
-echo $COMMIT_MESSAGE
 cd `dirname $0`
 
 cp -rf ./world /tmp && rm -rf ./world
@@ -16,6 +12,12 @@ cp -r $SOURCE_PATH"/world" ./world
 cp -r $SOURCE_PATH"/world_nether" ./world_nether
 cp -r $SOURCE_PATH"/world_the_end" ./world_the_end
 
+
 git add .
+
+TIME=`date "+%Y-%m-%d %H:%M:%S"`
+COMMIT_MESSAGE="auto backup "$TIME" @memset0."
+
+echo $COMMIT_MESSAGE
 git commit -m "$COMMIT_MESSAGE"
 git push
