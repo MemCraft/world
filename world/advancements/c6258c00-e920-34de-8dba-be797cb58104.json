@@ -251,6 +251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2020-08-25 16:00:54 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2020-08-19 13:47:10 +0800"
@@ -431,6 +437,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2020-08-25 16:26:13 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2020-08-19 14:28:33 +0800"
@@ -564,6 +576,7 @@
       "minecraft:magma_cube": "2020-08-23 23:11:13 +0800",
       "minecraft:spider": "2020-08-19 12:43:38 +0800",
       "minecraft:creeper": "2020-08-19 16:29:01 +0800",
+      "minecraft:evoker": "2020-08-25 15:59:21 +0800",
       "minecraft:zombified_piglin": "2020-08-19 16:55:46 +0800",
       "minecraft:witch": "2020-08-25 10:09:43 +0800",
       "minecraft:wither_skeleton": "2020-08-19 18:18:03 +0800",
@@ -572,6 +585,7 @@
       "minecraft:piglin": "2020-08-19 16:55:33 +0800",
       "minecraft:enderman": "2020-08-20 13:50:01 +0800",
       "minecraft:silverfish": "2020-08-24 15:46:47 +0800",
+      "minecraft:vex": "2020-08-25 16:00:30 +0800",
       "minecraft:zombie": "2020-08-19 16:26:32 +0800",
       "minecraft:drowned": "2020-08-19 22:41:03 +0800",
       "minecraft:zombie_villager": "2020-08-20 11:13:17 +0800"
@@ -1076,6 +1090,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2020-08-25 16:06:46 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2020-08-24 23:45:00 +0800"
@@ -1544,6 +1564,12 @@
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2020-08-24 16:22:56 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2020-08-25 16:10:27 +0800"
     },
     "done": true
   },
