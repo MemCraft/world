@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2020-08-25 12:17:45 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2020-08-19 12:51:24 +0800"
@@ -443,6 +449,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2020-08-25 12:15:21 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2020-08-19 13:10:33 +0800"
@@ -544,8 +556,11 @@
       "minecraft:blaze": "2020-08-19 22:08:03 +0800",
       "minecraft:pillager": "2020-08-24 10:32:15 +0800",
       "minecraft:skeleton": "2020-08-19 13:45:02 +0800",
+      "minecraft:zoglin": "2020-08-25 12:36:21 +0800",
+      "minecraft:ravager": "2020-08-25 12:45:07 +0800",
       "minecraft:ghast": "2020-08-19 16:53:51 +0800",
       "minecraft:hoglin": "2020-08-20 11:06:56 +0800",
+      "minecraft:vindicator": "2020-08-25 12:39:48 +0800",
       "minecraft:magma_cube": "2020-08-23 23:11:13 +0800",
       "minecraft:spider": "2020-08-19 12:43:38 +0800",
       "minecraft:creeper": "2020-08-19 16:29:01 +0800",
@@ -659,6 +674,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2020-08-25 12:38:40 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2020-08-25 09:56:30 +0800"
@@ -698,6 +719,12 @@
   "minecraft:recipes/combat/netherite_boots_smithing": {
     "criteria": {
       "has_netherite_ingot": "2020-08-24 23:56:02 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_white_dye": "2020-08-25 12:03:16 +0800"
     },
     "done": true
   },
@@ -770,6 +797,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2020-08-19 12:51:04 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2020-08-25 12:03:16 +0800"
     },
     "done": true
   },
@@ -1145,6 +1178,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_white_dye": "2020-08-25 12:03:16 +0800"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:jungle_edge": "2020-08-20 11:10:39 +0800",
@@ -1294,6 +1333,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2020-08-25 12:03:16 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis": "2020-08-19 14:11:45 +0800"
@@ -1409,6 +1454,12 @@
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2020-08-19 16:43:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_white_dye": "2020-08-25 12:03:16 +0800"
     },
     "done": true
   },
@@ -1652,6 +1703,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_netherbrick": "2020-08-25 12:02:26 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2020-08-19 16:25:26 +0800"
@@ -1680,6 +1737,7 @@
     "criteria": {
       "cooked_beef": "2020-08-19 16:21:16 +0800",
       "bread": "2020-08-23 23:15:46 +0800",
+      "golden_apple": "2020-08-25 12:44:49 +0800",
       "rotten_flesh": "2020-08-20 13:01:26 +0800"
     },
     "done": false
@@ -1834,6 +1892,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2020-08-25 12:03:16 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2020-08-19 14:17:12 +0800"
@@ -1867,6 +1931,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2020-08-19 14:28:33 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2020-08-25 12:17:45 +0800"
     },
     "done": true
   },
@@ -2092,6 +2162,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2020-08-25 12:03:28 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2020-08-19 16:36:28 +0800"
@@ -2221,6 +2297,12 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2020-08-19 16:35:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2020-08-25 12:17:45 +0800"
     },
     "done": true
   },
@@ -2455,6 +2537,12 @@
   "minecraft:recipes/decorations/brown_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2020-08-24 14:31:12 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_white_dye": "2020-08-25 12:03:16 +0800"
     },
     "done": true
   },
